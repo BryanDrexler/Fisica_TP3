@@ -27,9 +27,7 @@
 3200,42.17
 3300,44.57
 3400,47.15
- 
-
-Medición solo con la pelota de plata:
+#Medición solo con la pelota de plata:
 3500,3.66
 3600,4.39
 3700,4.09
@@ -42,8 +40,7 @@ Medición solo con la pelota de plata:
 4400,42.72
 4500,50.20
 4600,54.45
-
-Medición con pelotita de plata y madera y cinta:
+#Medición con pelotita de plata y madera y cinta:
 2400,4.21
 2500,5.79
 2600,9.24
@@ -56,8 +53,7 @@ Medición con pelotita de plata y madera y cinta:
 3300,41.75
 3400,49.33
 3500,54.01
-
-Medición con pelota solo de oro:
+#Medición con pelota solo de oro:
 2200,4.09
 2300,6.61
 2400,8.94
@@ -68,8 +64,7 @@ Medición con pelota solo de oro:
 2900,38.87
 3000,47.52
 3100,54.20
-
-Medicion con 2 de madera, 2 de plata y 1 de oro:
+#Medicion con 2 de madera, 2 de plata y 1 de oro:
 900,3.78
 1000,4.14
 1100,6.41
@@ -83,8 +78,7 @@ Medicion con 2 de madera, 2 de plata y 1 de oro:
 1900,40.47
 2000,46.85
 2100,50.52
-
-Medicion con el celu y la pelota de oro:
+#Medicion con el celu y la pelota de oro:
 3400,5.44
 3500,6.66
 3600,7.46
@@ -154,13 +148,9 @@ Medicion con el celu y la pelota de oro:
 10000,42.26
 10100,43.24
 10200,44.07
-
-Está media rara esta medición, se iba frenando en algunas partes de la trayectoria
-TODAS LAS MEDICIONES ANTERIORES FUERON HECHAS CON UNA PELOTITA DE ORO HACIENDO PESO
-
-
-
-Medición con la cinta métrica. Del otro lado haciendo peso una pelota de oro y una de plata:
+#Está media rara esta medición, se iba frenando en algunas partes de la trayectoria
+#TODAS LAS MEDICIONES ANTERIORES FUERON HECHAS CON UNA PELOTITA DE ORO HACIENDO PESO
+#Medición con la cinta métrica. Del otro lado haciendo peso una pelota de oro y una de plata:
 1000,3.29
 1100,3.91
 1200,4.46
@@ -173,9 +163,7 @@ Medición con la cinta métrica. Del otro lado haciendo peso una pelota de oro y
 1900,36.77
 2000,45.80
 2100,58.82
-
-
-Medición con papel pegado a la base del trineo, la cinta métrica arriba del trineo. Una pelota de oro haciendo peso del otro lado:
+#Medición con papel pegado a la base del trineo, la cinta métrica arriba del trineo. Una pelota de oro haciendo peso del otro lado:
 1200,3.23
 1300,4.89
 1400,4.16
@@ -208,9 +196,7 @@ Medición con papel pegado a la base del trineo, la cinta métrica arriba del tr
 4100,44.57
 4200,47.02
 4300,49.48
-
-
-Medición con papel pegado abajo del trineo con una masa de plata y una de oro. Una pelota de oro del otro lado:
+#Medición con papel pegado abajo del trineo con una masa de plata y una de oro. Una pelota de oro del otro lado:
 1400,3.71
 1500,5.06
 1600,7.51
@@ -226,9 +212,7 @@ Medición con papel pegado abajo del trineo con una masa de plata y una de oro. 
 2600,40.52
 2700,45.43
 2800,49.92
-
-
-Medición con papel pegado abajo del trineo con 3 masas de plata y una de oro. Una pelota de oro del otro lado:
+#Medición con papel pegado abajo del trineo con 3 masas de plata y una de oro. Una pelota de oro del otro lado:
 2300,3.71
 2400,5.19
 2500,4.99
@@ -260,9 +244,7 @@ Medición con papel pegado abajo del trineo con 3 masas de plata y una de oro. U
 5100,45.37
 5200,47.52
 5300,49.55
-
-
-Papel pegado a la base y a la mesa. Arriba del trineo 3 de plata y 1 de oro. Una pelota de oro haciendo peso del otro lado:
+#Papel pegado a la base y a la mesa. Arriba del trineo 3 de plata y 1 de oro. Una pelota de oro haciendo peso del otro lado:
 1200,5.54
 1300,6.04
 1400,6.72
@@ -278,9 +260,7 @@ Papel pegado a la base y a la mesa. Arriba del trineo 3 de plata y 1 de oro. Una
 2400,38.37
 2500,44.61
 2600,51.57
-
-
-Papel en la base y en la mesa. 1 de plata y 1 de oro. Una sola de oro del otro lado:
+#Papel en la base y en la mesa. 1 de plata y 1 de oro. Una sola de oro del otro lado:
 139400,5.67
 139500,7.21
 139600,9.13
@@ -291,9 +271,7 @@ Papel en la base y en la mesa. 1 de plata y 1 de oro. Una sola de oro del otro l
 140100,35.46
 140200,43.01
 140300,50.70
-
-
-Papel de los dos lados, como en las dos anteriores. La cinta métrica arriba:
+#Papel de los dos lados, como en las dos anteriores. La cinta métrica arriba:
 242500,5.37
 242600,6.16
 242700,6.66
